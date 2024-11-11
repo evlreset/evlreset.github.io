@@ -1,0 +1,53 @@
+body {
+	background: lightblue;
+}
+
+.container{
+	width: 600px;
+	margin: auto;
+	padding: 25px;
+	background: white;
+}
+
+p {
+	align-content: left;
+	margin: auto;
+	width: 800px;
+	padding-bottom: 50px;
+}
+
+.nav {
+	display: flex;
+	justify-content: space-around;
+	font-size: 24px;
+}
+
+.container2 {
+width: 600px;
+margin: auto;
+
+}
+
+.thumbnail1{
+	width: 200px;
+	border: thin solid black;
+	text-align: center;
+	font-size: 20px;
+	float: left;
+	margin-bottom: 25px;
+}
+
+.thumbnail2{
+	width: 200px;
+	border: thin solid black;
+	text-align: center;
+	font-size: 20px;
+	float: right;
+	margin-bottom: 25px;
+}
+
+h2{
+	width: 800px;
+	margin: auto;
+	align-content: left;
+}
